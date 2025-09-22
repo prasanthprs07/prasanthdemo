@@ -35,6 +35,35 @@ public class DataDrivenAdduser {
 			WebElement usernameField = wait
 					.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id=\"username\"]")));
 
+
+// Locate the username input field and enter "sysadmin"
+			WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+
+			// Wait until the username field is v isible on the page
+			WebElement usernameField = wait
+					.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id=\"username\"]")));
+
+// Locate the username input field and enter "sysadmin"
+			WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+
+			// Wait until the username field is v isible on the page
+			WebElement usernameField = wait
+					.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id=\"username\"]")));
+
+// Locate the username input field and enter "sysadmin"
+			WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+
+			// Wait until the username field is v isible on the page
+			WebElement usernameField = wait
+					.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id=\"username\"]")));
+
+// Locate the username input field and enter "sysadmin"
+			WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+
+			// Wait until the username field is v isible on the page
+			WebElement usernameField = wait
+					.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id=\"username\"]")));
+
 			// Enter the username "sysadmin" into the field
 			usernameField.sendKeys("sysadmin");
 			Thread.sleep(1000); // Wait for 1 second
