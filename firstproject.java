@@ -24,6 +24,16 @@ public class firstproject {
         WebElement email = driver.findElement(By.xpath("//*[@id=\"__next\"]/div/main/div/main/div/div[1]/div[2]/form/div/input"));							
         Thread.sleep(1000);
 
+		   WebElement email = driver.findElement(By.xpath("//*[@id=\"__next\"]/div/main/div/main/div/div[1]/div[2]/form/div/input"));							
+        Thread.sleep(1000);
+
+		   WebElement email = driver.findElement(By.xpath("//*[@id=\"__next\"]/div/main/div/main/div/div[1]/div[2]/form/div/input"));							
+        Thread.sleep(1000);
+
+		   WebElement email = driver.findElement(By.xpath("//*[@id=\"__next\"]/div/main/div/main/div/div[1]/div[2]/form/div/input"));							
+        Thread.sleep(1000);
+
+
 
 
         WebElement email = driver.findElement(By.xpath("//*[@id=\"__next\"]/div/main/div/main/div/div[1]/div[2]/form/div/input"));							
